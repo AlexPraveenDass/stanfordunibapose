@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:image-labeling:17.0.7@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b22cfb50c41ea41398c94cda6e98e937/transformed/jetified-image-labeling-17.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2270b9c386f18bd8cec1a088297969e0/transformed/jetified-image-labeling-17.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2270b9c386f18bd8cec1a088297969e0/transformed/jetified-image-labeling-17.0.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2270b9c386f18bd8cec1a088297969e0/transformed/jetified-image-labeling-17.0.7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/image-labeling/17.0.7/b8c5543475d262af5c876b35edfb36340c0fde43/image-labeling-17.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

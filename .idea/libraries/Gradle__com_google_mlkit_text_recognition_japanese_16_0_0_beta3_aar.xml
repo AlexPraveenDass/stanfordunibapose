@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:text-recognition-japanese:16.0.0-beta3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4e6d2529c883873ba3550f3b174b1d31/transformed/jetified-text-recognition-japanese-16.0.0-beta3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b01f24b26369f8401d4c8c1277c6e8d9/transformed/jetified-text-recognition-japanese-16.0.0-beta3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b01f24b26369f8401d4c8c1277c6e8d9/transformed/jetified-text-recognition-japanese-16.0.0-beta3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b01f24b26369f8401d4c8c1277c6e8d9/transformed/jetified-text-recognition-japanese-16.0.0-beta3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/text-recognition-japanese/16.0.0-beta3/e1ef24899335eea64fb2af4189716b86ab1b31d2/text-recognition-japanese-16.0.0-beta3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

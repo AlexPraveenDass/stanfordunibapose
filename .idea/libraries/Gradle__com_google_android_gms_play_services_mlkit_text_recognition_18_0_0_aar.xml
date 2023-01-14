@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-mlkit-text-recognition:18.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6e2bac0414d7184e0b249399254a0bf7/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b0b68cb22aaf38eba9b62e220c51530/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b0b68cb22aaf38eba9b62e220c51530/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2b0b68cb22aaf38eba9b62e220c51530/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-mlkit-text-recognition/18.0.0/eb768ae030fdd6a8dc7974a0aab603b70b76b957/play-services-mlkit-text-recognition-18.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "601519052572",
+    "project_id": "pose-estimation-3db05",
+    "storage_bucket": "pose-estimation-3db05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601519052572:android:9b6c472ebacc7e086bccd9",
+        "android_client_info": {
+          "package_name": "com.google.mlkit.vision.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601519052572-ksmn17dl2nv0pp3pob5f2dtu4klr8744.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTeE8lnMs59NrBl665tIbokfZLbEqOcj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601519052572-ksmn17dl2nv0pp3pob5f2dtu4klr8744.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601519052572:android:ab6aa04c82664c186bccd9",
+        "android_client_info": {
+          "package_name": "com.standfordunibapose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601519052572-ksmn17dl2nv0pp3pob5f2dtu4klr8744.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTeE8lnMs59NrBl665tIbokfZLbEqOcj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601519052572-ksmn17dl2nv0pp3pob5f2dtu4klr8744.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
